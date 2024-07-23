@@ -13,3 +13,4 @@ if exist "%exe_path%" (
 )
 
 endlocal
+exit
